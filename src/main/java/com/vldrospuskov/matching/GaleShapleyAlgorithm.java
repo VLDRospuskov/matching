@@ -41,6 +41,7 @@ public class GaleShapleyAlgorithm {
             }
 
             //sets busy - free students
+
             setStudentIsFree(preferSchools);
 
             engagedCount++;
